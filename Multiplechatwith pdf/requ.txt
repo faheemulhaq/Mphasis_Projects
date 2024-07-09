@@ -1,4 +1,6 @@
 streamlit
+pyttsx3
+speech_recognization
 google-generativeai
 python-dotenv
 langchain
